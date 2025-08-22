@@ -14,3 +14,8 @@ This is **BOLD** text
 This *text* is italizied
 
 ![This is a image](https://toymachine.com/cdn/shop/files/Share_TM.jpg?v=1745602801)
+
+
+### Journal Entries
+
+Visit my [Journal](journal/8262025-entry.md)
