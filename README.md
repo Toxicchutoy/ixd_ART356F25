@@ -18,4 +18,4 @@ This *text* is italizied
 
 ### Journal Entries
 
-Visit my [Journal](journal)
+Visit my [Journal](https://github.com/Toxicchutoy/ixd_ART356F25/tree/main/journal)
