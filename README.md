@@ -18,4 +18,4 @@ This *text* is italizied
 
 ### Journal Entries
 
-Visit my [Journal](journal/8262025-entry.md)
+Visit my [Journal](journal)
